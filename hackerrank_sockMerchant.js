@@ -1,3 +1,5 @@
+
+
 // Complete the sockMerchant function below.
 function sockMerchant(n, ar) {
     if (n < 1 || n > 100) {

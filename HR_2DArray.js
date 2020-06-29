@@ -39,7 +39,6 @@ function hourglassSum(input) {
         }
     }
     return largest;
-
 }
 
 console.log(hourglassSum(
